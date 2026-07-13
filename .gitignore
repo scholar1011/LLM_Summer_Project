@@ -12,3 +12,9 @@ Thumbs.db
 
 # Mac系统文件
 .DS_Store
+
+# 只上传code文件夹，其余目录全部忽略
+dataset/
+log/
+pic/
+report/

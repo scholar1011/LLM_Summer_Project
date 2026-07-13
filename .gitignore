@@ -1,0 +1,14 @@
+# PyCharm编辑器配置
+.idea/
+*.iml
+
+# Python编译缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# Windows系统垃圾
+Thumbs.db
+
+# Mac系统文件
+.DS_Store
